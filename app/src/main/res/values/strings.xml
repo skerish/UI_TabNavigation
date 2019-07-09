@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UI_TabExperiment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text1">These are the top stories:</string>
+    <string name="text2">Tech news you can use:</string>
+    <string name="text3">Cooking tips:</string>
+
+    <string name="tab_label1">Top Stories</string>
+    <string name="tab_label2">Tech News</string>
+    <string name="tab_label3">Cooking</string>
+</resources>
